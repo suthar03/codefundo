@@ -42,4 +42,5 @@ There is no altration in choosen candidate for your vote after submission of vot
 6. Ideally we can vote from home.
 7. This removes the problem of stealing a Electronic Voting Machine (EVM).
 8. This eliminates the possibility of electronic voting machine (EVM) being corrupted by somebody as EVM machine not used.
-9. As era of Techonology .
+9. Nobody can know who I voted for.
+10. As era of Techonology .
