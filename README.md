@@ -1,4 +1,4 @@
-#                          codefundopppppppppppppppppp
+#                          codefundopp
 # Digital Voting Process
 Firstly we required connect our Voter ID with Aadhaar card .<br/>
 There may be any application or WebApplication which access you Voter ID as well as Aadhaar Card.<br/>
