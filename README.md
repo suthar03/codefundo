@@ -31,7 +31,5 @@ There is no altration in choosen candidate for your vote after submission of vot
 
 
 ![process](https://user-images.githubusercontent.com/44470897/62006710-e1380600-b161-11e9-950b-4610e9426117.png)
-__________________________________
+![Untitled2](https://user-images.githubusercontent.com/44470897/62007182-1b0c0b00-b168-11e9-8048-2c6468633ad8.png)
 
-![Untitled](https://user-images.githubusercontent.com/44470897/62007069-c9af4c00-b166-11e9-8273-5912d86056b4.png)
-So that neither themselves nor anyone else can reach again that data.
