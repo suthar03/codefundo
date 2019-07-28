@@ -34,8 +34,12 @@ There is no altration in choosen candidate for your vote after submission of vot
 ![Untitled2](https://user-images.githubusercontent.com/44470897/62007182-1b0c0b00-b168-11e9-8048-2c6468633ad8.png)
 
 # Advantage
-1. Voters save a lot of time
+1. Voters save a lot of time.
 2. We do not have to stand in lines.
 3. Aged person having problems in to go to booth. In this we are avoid this problem too.
 4. It take very little time in voting.
-5. As era of Techonology .
+5. No one else can vote on your voter ID.
+6. Ideally we can vote from home.
+7. This removes the problem of stealing a Electronic Voting Machine (EVM).
+8. This eliminates the possibility of electronic voting machine (EVM) being corrupted by somebody as EVM machine not used.
+9. As era of Techonology .
